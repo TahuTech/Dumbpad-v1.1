@@ -1,6 +1,8 @@
 # Dumbpad v1.1
  My build log to make a dumbpad
  
+![image](https://github.com/TahuTech/Dumbpad-v1.1/blob/main/dumbpad.jpeg)
+ 
 What you need to make a dumbpad !
 
 1. PCB you can print in https://jlcpcb.com/ design pcb https://github.com/imchipwood/dumbpad/tree/master/combo
